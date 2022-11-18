@@ -1,6 +1,8 @@
 ## Boba Drinks & Ice-cream App
+
 An app you can use to order for boba tea and ice-cream.
-##Screenshot of the checkout page
+
+## Screenshot of the checkout page
 <img width="1423" alt="Screenshot 2022-11-18 at 10 39 50" src="https://user-images.githubusercontent.com/100469351/202744175-b8db7940-5951-47cd-a356-86ca5a5f7ac9.png">
 
 ## Installation
@@ -11,5 +13,5 @@ An app you can use to order for boba tea and ice-cream.
 ## Usage
 
 1. run `node server.js`
-2. Navigate to `localhost:5000`
+2. Navigate to `localhost:4040`
 
